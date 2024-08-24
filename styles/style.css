@@ -18,7 +18,8 @@
 
 .header__links-list-item {
   list-style: circle;
-  width: auto;
+  display: flex;
+  flex-wrap: nowrap;
 }
 
 .header__links-list-item_no-bullit {
