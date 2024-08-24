@@ -12,7 +12,6 @@
 
 .header__links-list {
   display: flex;
-  flex-wrap: nowrap;
   column-gap: 33px;
   font-size: 18px;
 }
@@ -27,6 +26,8 @@
 
 .header__link {
   line-height: 21px;
+  display: inline;
+  text-wrap: nowrap;
 }
 
 .header__link .header__link_active {
