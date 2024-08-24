@@ -1,10 +1,11 @@
 .header {
   display: flex;
-  margin: 92px 24px 90px 24px;
+  margin: 92px 24px 91px 24px;
 }
 
 .header__menu {
   width: 391px;
+  min-height: 22px;
   margin: 44px 36px 39px 26px;
 }
 
