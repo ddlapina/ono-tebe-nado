@@ -16,6 +16,7 @@
 
 .header__links-list-item {
   list-style: circle;
+  text-wrap: nowrap;
 }
 
 .header__links-list-item_no-bullit {
