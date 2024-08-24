@@ -6,11 +6,11 @@
 
 .header__menu {
   width: 391px;
-  max-height: 22px;
   margin: 44px 36px 39px 26px;
 }
 
 .header__links-list {
+  max-height: 22px;
   display: flex;
   column-gap: 33px;
   font-size: 18px;
