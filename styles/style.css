@@ -206,9 +206,6 @@
 }
 
 .card__title {
-  position: relative;
-  z-index: 3;  
-  display: flex;
   padding: 51px 40px 0 40px;
   color: #FFFFFF;
   font-weight: 700;
